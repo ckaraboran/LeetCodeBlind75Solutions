@@ -1,3 +1,9 @@
+/*
+Complexity Analysis:
+Time complexity: O(n)
+Space complexity O(n)
+ */
+
 namespace TwoSum;
 
 public class OnePassHash : ITwoSumCalculator
