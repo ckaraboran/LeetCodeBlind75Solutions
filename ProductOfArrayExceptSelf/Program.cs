@@ -13,5 +13,5 @@ static void Calculate(IProductsCalculator calculator)
 {
     var values = new[] { 1, 3, 2, 6 };
     var result = calculator.ProductExceptSelf(values);
-    foreach (var item in result) Console.WriteLine(values[item]);
+    foreach (var item in result) Console.WriteLine(item);
 }
