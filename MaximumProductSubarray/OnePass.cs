@@ -1,3 +1,9 @@
+/*
+Complexity Analysis:
+Time complexity: O(n)
+Space complexity O(1)
+ */
+
 namespace MaximumProductSubarray;
 
 public class OnePass : IMaximumProductSubarrayFinder
@@ -15,11 +21,9 @@ public class OnePass : IMaximumProductSubarrayFinder
                 (max, min) = (min, max);
             }
 
-
             max = Math.Max(nums[i], max * nums[i]);
             min = Math.Min(nums[i], min * nums[i]);
-
-
+            
             ans = Math.Max(ans, max);
         }
 
