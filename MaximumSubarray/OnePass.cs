@@ -1,7 +1,7 @@
 /*
 Complexity Analysis:
 Time complexity: O(n)
-Space complexity O(n)
+Space complexity O(1)
  */
 
 namespace MaximumSubarray;
