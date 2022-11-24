@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductOfArrayExceptSelf", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSubarray", "MaximumSubarray\MaximumSubarray.csproj", "{CF8002C6-779E-464A-AFE0-907B0473A8BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumProductSubarray", "MaximumProductSubarray\MaximumProductSubarray.csproj", "{D6CB632D-1784-435F-8D53-3E2A32AC09B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{CF8002C6-779E-464A-AFE0-907B0473A8BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF8002C6-779E-464A-AFE0-907B0473A8BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF8002C6-779E-464A-AFE0-907B0473A8BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6CB632D-1784-435F-8D53-3E2A32AC09B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6CB632D-1784-435F-8D53-3E2A32AC09B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6CB632D-1784-435F-8D53-3E2A32AC09B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6CB632D-1784-435F-8D53-3E2A32AC09B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
