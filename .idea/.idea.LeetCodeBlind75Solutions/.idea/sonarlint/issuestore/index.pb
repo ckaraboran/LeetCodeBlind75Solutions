@@ -11,3 +11,11 @@ E
 TwoSum/TwoPassHash.cs,1/7/17a73d4e70755fb9805a79f035cc7400bb53800d
 V
 &MaximumSubarray/MaximumSubarray.csproj,2/7/2757604be586929e1466103e59b37c1f338617bf
+d
+4MaximumProductSubarray/MaximumProductSubarray.csproj,4/c/4c04e9d1c396d7487521d6443d2af9a6ff19d289
+g
+7MaximumProductSubarray/IMaximumProductSubarrayFinder.cs,3/e/3e686bea0809e170bb03ede30aa2e48fda81b288
+Q
+!MaximumProductSubarray/OnePass.cs,f/9/f90ee551936fd834bba53d1a806ee34ac1c51060
+Q
+!MaximumProductSubarray/Program.cs,9/f/9f8f3630cbb962ea346061cefaf96b913159eeb6
